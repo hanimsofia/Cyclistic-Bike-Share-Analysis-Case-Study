@@ -4,7 +4,6 @@ author: "Hanim Sofiah"
 date: "2024-02-28"
 output:
   pdf_document: default
-  html_document: default
 ---
 
 # Introduction

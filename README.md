@@ -61,7 +61,9 @@ install.packages(c("dplyr", "lubridate", "readr", "ggplot2"))
 
 ## How to Run the Analysis
 
-Clone this repository, open the R Markdown file (`AnalysisofTrips.Rmd`), and knit it to produce the full report.
+Clone this repository, open the R Markdown file [(`AnalysisofTrips.Rmd`)](AnalysisofTrips.Rmd), and knit it to produce the full report.
+
+
 
 ## Contributing
 
