@@ -65,13 +65,3 @@ Clone this repository, open the R Markdown file [(`AnalysisofTrips.Rmd`)](Analys
 
 
 
-## Contributing
-
-We welcome contributions from the community. If you have suggestions for improving this analysis, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
